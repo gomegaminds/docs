@@ -14,7 +14,7 @@ Once a classroom is created, it is listed on your Classrooms page and can be acc
 
 It is up to the teacher to decide how the classroom is used. If the classroom will be used asynchronously (let students participate without intervention, for example through exploring), teachers can fill it with assignments and exploratory content, or for synchronous useage (where a teacher for example does a live lecture with their students), place relevant content and presentations in the 3D world.
 
-For more information about potential use cases and applications, check out our [Teacher Hub](https://www.notion.so/Teacher-Hub-9a92e4b85edf4a14adec4f65bd40ba44)
+For more information about potential use cases and applications, check out our [Teacher Hub](/hub/intro)
 
 In the dashboard, your classrooms are represented with a card that looks like this:
 
@@ -31,12 +31,12 @@ Share the link to your students (via email or an LMS like Google Classroom) and 
 
 #### View Submissions
 This button opens a menu where you can see the submissions that have been submitted from inside this classroom.
-For example by [submitting a screenshot from this classroom](placeholder) or [filling out a question component](placeholder) that the teacher placed in the [Classroom Editor](placeholder).
+For example by submitting a screenshot from this classroom or filling out a question component that the teacher placed in the [Classroom Editor](docs/editor).
 
 #### Edit in Classroom Editor
 Edit in Classroom Editor will open the Classroom Editor where you can edit and create content, assignments and various other components to your classroom. 
 
-For more information about the Classroom Editor, check out [this page](placeholder)
+For more information about the Classroom Editor, check out [this page](docs/editor)
 
 ## Creating new classrooms
 1. Use the ‘New Classroom’ button on top of the page.
@@ -56,6 +56,6 @@ For more information about the Classroom Editor, check out [this page](placehold
 
 You can edit your classroom by clicking the "Edit in Classroom Editor" button.
 
-[Learn more about using the Classroom Editor here](../editor.md)
+[Learn more about using the Classroom Editor here](docs/editor)
 
 
