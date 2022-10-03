@@ -16,11 +16,11 @@ The Classroom Editor simply put allows you to add content and a variety of usefu
 
 ## Available tools
 
-[3D Models](a)
+3D Models
 
-[Gif](a)
+Gif]
 
-[Images](a)
+Images
 
 
 
