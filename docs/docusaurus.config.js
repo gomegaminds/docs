@@ -53,6 +53,19 @@ const config = {
         ],
     ],
 
+    plugins: [
+        [
+            "@docusaurus/plugin-content-docs",
+            {
+                id: "teacherhub",
+                path: "hub",
+                routeBasePath: "hub",
+                sidebarPath: require.resolve("./sidebars_hub.js"),
+                // ... other options
+            },
+        ],
+    ],
+
     themeConfig:
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
@@ -68,6 +81,12 @@ const config = {
                         docId: "intro",
                         position: "left",
                         label: "Documentation",
+                    },
+                    {
+                        to: '/hub/intro',    // ./docs/Intro.md
+                        docId: "teacherhub",
+                        position: "left",
+                        label: "Teacher Hub",
                     },
                     {
                         href: "https://dash.megaminds.world",
