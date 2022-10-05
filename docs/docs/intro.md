@@ -17,7 +17,7 @@ It covers the following parts of the MegaMinds Ecosystem:
 And also some [technical support articles](category/technical-support).
 
 
-In order to keep the Documentation pages simple and contained, we have a resource page specifically for guides, education and other articles regarding applying the MegaMinds platform to teaching and education.
+In order to keep the Documentation pages simple and contained, we have a resource page specifically for inspiration, guides and other articles regarding applying the MegaMinds platform to teaching and education.
 
 [Teacher Hub](/hub/intro)
 
