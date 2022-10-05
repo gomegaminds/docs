@@ -99,26 +99,58 @@ const config = {
                 style: "dark",
                 links: [
                     {
-                        title: "Docs & Guides",
+                        title: "Documentation",
                         items: [
                             {
-                                label: "Tutorial",
+                                label: "Documentation Index",
                                 to: "/docs/intro",
+                            },
+                            {
+                                label: "Dashboard",
+                                to: "/docs/category/dashboard",
+                            },
+                            {
+                                label: "3D Environments",
+                                to: "/docs/category/3d-environments",
+                            },
+                            {
+                                label: "Classroom Editor",
+                                to: "/docs/category/classroom-editor",
+                            },
+                            {
+                                label: "Technical Support",
+                                to: "/docs/category/technical-support",
                             },
                         ],
                     },
                     {
-                        title: "Community",
+                        title: "Teacher Hub",
+                        items: [
+                            {
+                                label: "Teacher Hub Index",
+                                href: "/hub/intro",
+                            },
+                            {
+                                label: "Guides",
+                                href: "/hub/category/guides",
+                            },
+                            {
+                                label: "Tips and Best Practices",
+                                href: "/hub/tips",
+                            },
+                            {
+                                label: "Teaching With MegaMinds",
+                                href: "/hub/teaching-with",
+                            },
+                        ],
+                    },
+                    {
+                        title: "External Links",
                         items: [
                             {
                                 label: "Teacher Facebook Community ",
                                 href: "https://www.facebook.com/groups/772539573778431",
                             },
-                        ],
-                    },
-                    {
-                        title: "More",
-                        items: [
                             {
                                 label: "Dashboard",
                                 href: "https://dash.megaminds.world",

@@ -2,9 +2,10 @@
 sidebar_position: 1
 ---
 
-# Introduction 
+# Introduction
 
 ## Before we start creating
+
 If you did not already, it might be useful that you familiarize yourself with the [concept of classrooms](/docs/dashboard/classrooms) before using the editor.
 
 ## Role of Classroom Editor
@@ -13,18 +14,10 @@ Adding content and customizing your classrooms all happen in the Classroom Edito
 
 The Classroom Editor simply put allows you to add content and a variety of useful components to your classroom.
 
+!["An empty classroom open in Classroom Editor"](img/empty_classroom.png "Empty classroom")
 
-## Available tools
+## How do I use the Classroom Editor?
 
-3D Models
+We highly recommend you try the [Building your first Virtual Classroom](/hub/dashboard/first-classroom) guide and exploring other content in the [Teacher Hub](/hub/intro)!
 
-Gif]
-
-Images
-
-
-
-
-
-
-
+Also check out the complete [Component Overview](tool-overview) to see all the different types of content you can place in your classrooms!
