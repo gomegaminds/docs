@@ -6,7 +6,7 @@ import styles from "./styles.module.css";
 const FeatureList = [
     {
         title: "Documentation",
-        Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+        Svg: require("@site/static/img/docu.svg").default,
         linktext: "Open Documentation",
         description: (
             <>
@@ -20,7 +20,7 @@ const FeatureList = [
     {
         title: "Teacher Hub",
         linktext: "Open Teacher Hub",
-        Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+        Svg: require("@site/static/img/teacher.svg").default,
         description: (
             <>
                 The <strong>Teacher Hub</strong> will both help you get familiar
