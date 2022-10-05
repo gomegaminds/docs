@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: "MegaMinds Documentation",
+    title: "Resources",
     tagline: "Guides, resources and documentation for MegaMinds",
     url: "https://docs.megaminds.world",
     baseUrl: "/",
@@ -70,10 +70,10 @@ const config = {
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
             navbar: {
-                title: "MegaMinds Docs",
+                title: "",
                 logo: {
                     alt: "MegaMinds purple M Logo",
-                    src: "img/logo.svg",
+                    src: "img/logo.png",
                 },
                 items: [
                     {
