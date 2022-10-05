@@ -5,6 +5,7 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
 import QuickLinks from "@site/src/components/QuickLinks";
+import TawkMessengerReact from "@tawk.to/tawk-messenger-react";
 
 import styles from "./index.module.css";
 
@@ -28,6 +29,10 @@ export default function Home() {
             description="Reources, guides and documentation for the MegaMinds Platform."
         >
             <HomepageHeader />
+            <TawkMessengerReact
+                propertyId="62d08e1d7b967b1179999751"
+                widgetId="1g7vam9d1"
+            />
             <main>
                 <HomepageFeatures />
                 <QuickLinks />
