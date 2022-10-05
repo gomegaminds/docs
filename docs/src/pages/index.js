@@ -25,7 +25,7 @@ export default function Home() {
     return (
         <Layout
             title={`Landing Page`}
-            description="Description will go into a meta tag in <head />"
+            description="Reources, guides and documentation for the MegaMinds Platform."
         >
             <HomepageHeader />
             <main>
