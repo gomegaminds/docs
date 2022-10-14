@@ -22,6 +22,28 @@ For a complete list of formatting tools for markdown, check out [this page](http
 
 ![image](https://user-images.githubusercontent.com/28685654/195853908-959fcbba-2722-4357-8e54-b81a6e7ee137.png)
 
+## Adding a file
+
+You can also add new files and they will be automatically added to the sidebar in Docusaurus (the documentation engine we are using). 
+
+Note that files have a
+```
+---
+sidebar_position: 1
+---
+```
+
+on the top of the page. This is to let Docusaurus know in what order you want the document to appear on the sidebar.
+As a general rule, the first heading such as:
+
+```
+# Something
+```
+
+Will be used as the sidebar title.
+
+![image](https://user-images.githubusercontent.com/28685654/195867043-7b70eb72-4ee1-4483-838a-76c4bca11c16.png)
+
 
 ## Saving a change
 
