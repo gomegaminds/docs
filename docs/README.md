@@ -1,41 +1,30 @@
-# Website
+# How to write docs
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+## Finding the file
 
-### Installation
+Browse through the above files inside either
 
-```
-$ yarn
-```
+- [doc](https://github.com/gomegaminds/docs/tree/main/docs/docs) folder
+- [hub](https://github.com/gomegaminds/docs/tree/main/docs/hub) folder
 
-### Local Development
+They correspond to Documentation and Teacher Hub.
 
-```
-$ yarn start
-```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## Editing a file
 
-### Build
+Once you find the article you want to edit, click the Edit button:
 
-```
-$ yarn build
-```
+![image](https://user-images.githubusercontent.com/28685654/195853765-e49ab195-45b7-47ca-9d2f-4cd1793b911e.png)
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+In the Edit window, you can make the changes that you need.
 
-### Deployment
+For a complete list of formatting tools for markdown, check out [this page](https://www.markdownguide.org/cheat-sheet/)
 
-Using SSH:
+![image](https://user-images.githubusercontent.com/28685654/195853908-959fcbba-2722-4357-8e54-b81a6e7ee137.png)
 
-```
-$ USE_SSH=true yarn deploy
-```
 
-Not using SSH:
+## Saving a change
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+Once you are done changing the document 
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+![image](https://user-images.githubusercontent.com/28685654/195854152-df38aa1b-f1c5-4c52-8224-748ae46fdd32.png)
