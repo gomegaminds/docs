@@ -25,6 +25,27 @@ For a complete list of formatting tools for markdown, check out [this page](http
 
 ## Saving a change
 
-Once you are done changing the document 
+Once you are done changing the document, you can commit the changes directly to the documentation, or propose changes.
 
-![image](https://user-images.githubusercontent.com/28685654/195854152-df38aa1b-f1c5-4c52-8224-748ae46fdd32.png)
+Proposing changes is the ideal way to do it, because Vercel (our deployment platform) will test that the changes can be committed without error, Github will make sure there are not conflicting versions (for example when two people are working on one document), and getting a review from another person generally leads to better content. If there is something that needs to be hotfixed asap, or something like a smaller change, you can committ directly to the main branch.
+
+
+![image](https://user-images.githubusercontent.com/28685654/195864338-d7ff0386-6bc9-41c2-8155-cb47f7cf4dfd.png)
+
+
+## Merge a proposal
+
+You or someone made a proposal ("pull request") instead of committing changes directly into the live website.
+
+A "pull request" is a complicated word for "please can I make my changes part of the live website". "Merge a pull request" is a fancy word for "make these changes part of the live website"
+
+Underneath you can see an image of a pull request page on Github. 
+
+The file I am trying to change has been tested and approved by Vercel (and also set up a new page where I can preview the changes). 
+
+However this pull request has conflicts, likely because I made it a while ago and there are new changes to the file I am trying to edit. So I need to fix those conflicts before being able to click "Merge pull request". Usually this is rare.
+
+If someone assigns you as a reviewer, please try to check and merge as soon as possible. Stale pull requests are potentially painful. :)
+
+![image](https://user-images.githubusercontent.com/28685654/195865312-65ca9600-bbe8-4927-b2a7-3f9bba9586f8.png)
+
