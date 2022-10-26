@@ -66,7 +66,9 @@ You can also drag-and-drop pictures, PDF documents, and other files straight fro
 
 *In this example we uploaded a white and purple MegaMinds logo icon to the room.*
 
-### Moving the text and image around
+### Moving, scaling and rotating the text and image around
+
+There are two ways to move your object around
 
 #### Rough Movement
 Simply click and drag the image to roughly position it in the room.
@@ -75,6 +77,9 @@ Click and hold while using the movement keys to move it together with your avata
 
 #### Object Menu Movement
 Right click an object to open the [Object Menu](/docs/editor/object-menu). With the Object Menu you can move, rotate, scale, and nudge objects precisely in the room, and also quickly move them to predefined areas that we have set up for each and every World.
+
+![Edit Object Menu](img/object-edit.png)
+
 
 ### How to Import Your Own Content
 
@@ -92,11 +97,6 @@ For example, there is a "Find GIF" button under "Add Gifs":
 
 ![Find gif button displayed in submenu](img/gif_search.png)
 
-### How To Manipulate And Place Content
-
-After you’ve imported your content, you can control the size and rotation of your content and place them in specific areas of your Classroom. The controls for objects, videos, and drawings can be found in their object menus. To reveal these controls, hover your cursor over the object and press the spacebar or tab key on your keyboard.
-
-<ReactPlayer controls url='https://www.youtube.com/watch?v=DszcAv18XaU&feature=emb_title' />
 
 ## Student Assessment
 
