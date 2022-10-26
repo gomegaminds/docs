@@ -68,9 +68,13 @@ You can also drag-and-drop pictures, PDF documents, and other files straight fro
 
 ### Moving the text and image around
 
-Simply click and drag the image to move it around in the room.
+#### Rough Movement
+Simply click and drag the image to roughly position it in the room.
 
 Click and hold while using the movement keys to move it together with your avatar over greater distances. For more information about avatar movement and navigation, please check out [Avatar and Movement Basics](/docs/3d/intro) in our Documentation pages.
+
+#### Object Menu Movement
+Right click an object to open the [Object Menu](/docs/editor/object-menu). With the Object Menu you can move, rotate, scale, and nudge objects precisely in the room, and also quickly move them to predefined areas that we have set up for each and every World.
 
 ### How to Import Your Own Content
 
