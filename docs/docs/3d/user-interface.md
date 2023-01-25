@@ -36,36 +36,17 @@ Other users will be able to see your camera feed. You can move your camera objec
 Same concept as above, you can share your screen as an object in the room that other users can see.
 Useful for running Kahoot or sharing a working document.
 
-#### 6. Pen tool
-
-The Pen tool allows you to tempoarilly draw on surfaces in a room.
-Once you leave the room, pen markings will dissapear.
-
-![Pen tool](img/pen_tool.png "Pen tool")
-
-There are some useful shortcuts for advanced use (only when the Pen Tool is active)
-
-|Key |Description|
-|:-:	|:-:	|
-| **SHIFT** + **Q** | Cycle pen color backwards |
-| **SHIFT** + **E** | Cycle pen color forwards |
-| **SHIFT** + **Mouse Scroll-Wheel** | (Mouse) Change pen size |
-| **SHIFT** + **Two-finger up/down motion** | (Touchpad) Change pen size |
-| **CMD** + **Z** | (Mac keyboard) Undo last stroke |
-| **ALT** + **Z** | (Windows keyboard) Undo last stroke |
-
-
-#### 7. Sticky Note
+#### 6. Sticky Note
 
 A sticky note is a basic text component that lets users add text as 3D objects in the room.
 
 ![Sticky Note](img/sticky_note.png "Sticky note")
 
-#### 8. Add Media
+#### 7. Add Media
 
 Add various media to the room, useful if you have something you want to temporarilly drop into the classroom without making permanent through the Classroom Editor.
 
-#### 9. Student Tools
+#### 8. Student Tools
 
 In this menu you will find tools that the students can use while in a classroom.
 
@@ -75,7 +56,7 @@ Currently, the following tools are available:
 
 Students can take a screenshot and capture evidence of their work through the Submit Picture button.  The results are stored in the Teacher Dashboard.
 
-#### 10. Teacher Tools
+#### 9. Teacher Tools
 In this menu you will find tools that are useful for the teacher while in a classroom.
 
 Currently, the following tools are available:
